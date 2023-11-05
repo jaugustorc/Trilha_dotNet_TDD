@@ -8,7 +8,7 @@ Neste curso, você aprenderá os fundamentos dos testes unitários usando o fram
 - Plataforma: Digital Innovation One
 - Instrutor: Leonardo Buta
 - [Link para o curso](https://web.dio.me/course/testes-unitarios-com-c/learning/ffcb384c-becc-4594-ba2e-388befaae5e5?back=/track/bootcamp-wex-desenvolvimento-net-e-qa&tab=undefined&moduleId=undefined)
-- [Link para o projeto](1_Testes_Unitarios_xUnit)
+- [Link para o projeto](https://github.com/jaugustorc/DIO_dotNet_Test_Unit_Csharp.git)
 
 ## :white_check_mark: 2. Introdução ao TDD (Blindando Seu Código com TDD e Testes Unitários Usando .NET Core, Criando uma Calculadora)
 
@@ -17,7 +17,7 @@ Este curso serve como uma introdução ao TDD. Você aprenderá os princípios b
 - Plataforma: Digital Innovation One
 - Instrutor: Mauro Correia
 - [Link para o curso](https://web.dio.me/project/blindando-seu-codigo-com-tdd-e-testes-unitarios-usando-net-core/learning/42be554a-a9fc-4d37-863f-e9f086579f42?back=/track/bootcamp-wex-desenvolvimento-net-e-qa&tab=undefined&moduleId=undefined)
-- [Link para o projeto](2_Introdução_TDD)
+- [Link para o projeto](https://github.com/jaugustorc/DIO_dotNet_TDD_XUnit.git)
 
 ## :white_check_mark: 3. TDD em C# com NUnit e Moq.  Testes e Frameworks .NET
 
@@ -26,7 +26,7 @@ Este curso aprofunda o TDD em C#, utilizando os frameworks xUnit, NUnit e Moq. V
 - Plataforma: Udemy
 - Instrutor: Luis Marques
 - [Link para o curso](https://www.udemy.com/course/c-testes-e-frameworks/learn/lecture/14447540#overview)
-- [Link para o projeto](3_TDD_dotNetFramework_NUnit_Moq)
+- [Link para o projeto](https://github.com/jaugustorc/TDD_.NetFrameworks.git)
 
 ## 4. TDD em ASP.NET WebAPI
 
