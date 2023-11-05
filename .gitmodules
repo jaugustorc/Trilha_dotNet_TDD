@@ -1,0 +1,9 @@
+[submodule "1_Testes_Unitario_xUnit"]
+	path = 1_Testes_Unitario_xUnit
+	url = https://github.com/jaugustorc/DIO_dotNet_Test_Unit_Csharp.git
+[submodule "2_Introdução_TDD"]
+	path = 2_Introdução_TDD
+	url = https://github.com/jaugustorc/DIO_dotNet_TDD_XUnit.git
+[submodule "3_TDD_dotNetFramework_NUnit_Moq"]
+	path = 3_TDD_dotNetFramework_NUnit_Moq
+	url = https://github.com/jaugustorc/TDD_.NetFrameworks.git
