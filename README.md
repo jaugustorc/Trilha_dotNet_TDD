@@ -33,17 +33,19 @@ Este curso aprofunda o TDD em C#, utilizando os frameworks xUnit, NUnit e Moq. V
 Este curso foca no uso do TDD no desenvolvimento de APIs Web com ASP.NET. Você aprenderá a escrever testes para suas APIs e a usar esses testes para orientar o desenvolvimento de suas APIs.
 
 - Plataforma: Youtube
-- Instrutor: Luis Marques
+- Instrutor: 
 - [Link para o curso](https://www.youtube.com/watch?v=ULJ3UEezisw&ab_channel=WesDoyle)
 - [Link para o projeto]()
 
 
--[Link para o projeto]()
 
 ## 5. TDD em ASP.NET MVC
 
 Finalmente, este curso aborda o uso do TDD no desenvolvimento de aplicações web com ASP.NET MVC. Você aprenderá a escrever testes para seus controladores, visualizações e modelos, e a usar esses testes para orientar o desenvolvimento de suas aplicações web.
 
+- Plataforma: Youtube
+- Instrutor: 
 -[Link para o curso](https://www.youtube.com/playlist?list=PLTgRMOcmRb3MKPRwaW375dLW-MWiTVX4H)
+-[Link para o projeto]()
 
 Esperamos que você encontre esta trilha útil em sua jornada para se tornar um melhor desenvolvedor .NET!
